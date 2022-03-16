@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Estimating App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal project to both help myself learn code, while also creating an application which will be helpful for my current job. 
 
-## Available Scripts
+The idea is to create an application which will hold projects and their various details such as contractor info, trade, date, scope, and materials. 
 
-In the project directory, you can run:
+Like an excel sheet, the user will be able to update scope items and materials, and the application will automatically update pricing. 
 
-### `npm start`
+## Planned Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Basic login / save / load functionality 
+- List existing projects
+- Create new projects
+- Create and edit scope lists
+- Create and edit material lists
+- Automatic calculation of costs / time based on scope and material lists
+- add / create materials with pricing 
+- add / create scope tasks with time estimates 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Reach Goals
 
-### `npm test`
+These features push outside of my known skills, and would require a lot of external help
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Export project scope and cost into a template Word Document or PDF
+- Connectivity with suppliers for automatically updating material pricing
+- Ability to purchase material lists directly from App
 
-### `npm run build`
+## Planned Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- PostgresSQL
+- Express.js
+- React.js
+- Node.js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*Subject to change*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Acknowledgements and Inspirations
 
-### `npm run eject`
+Currently, the idea for this app came from my own work experience. However, as I progress through the creation of this app, I intend to research other professional apps of a similar nature for guidance and feature inspiration. These will be listed here.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Updates
+ 
+- 3/16/2022 - Create-react-app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any hot tips, feature ideas, or would like to help me out in any way with this project, feel free to reach out to me @ scooperlu@gmail.com.
