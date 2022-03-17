@@ -31,6 +31,7 @@ These features push outside of my known skills, and would require a lot of exter
 - Express.js
 - React.js
 - Node.js
+- Tailwind CSS
 
 *Subject to change*
 
