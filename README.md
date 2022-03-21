@@ -33,6 +33,9 @@ These features push outside of my known skills, and would require a lot of exter
 - Node.js
 - Tailwind CSS
 
+Node Packages:
+- [React-Draggable](https://www.npmjs.com/package/react-draggable)
+
 *Subject to change*
 
 ## Acknowledgements and Inspirations
