@@ -7,7 +7,7 @@ function Layout() {
     return (
         <div>
             <Header />
-            <DetailedProjectCard />
+            {/* <DetailedProjectCard /> */}
             <BasicProjectList />
         </div>
     );
