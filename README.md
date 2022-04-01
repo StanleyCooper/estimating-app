@@ -1,5 +1,7 @@
 # Estimating App
 
+~~This project will be repurposed into a trello clone~~
+
 This is my personal project to both help myself learn code, while also creating an application which will be helpful for my current job. 
 
 The idea is to create an application which will hold projects and their various details such as contractor info, trade, date, scope, and materials. 
